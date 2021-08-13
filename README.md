@@ -94,7 +94,7 @@ Let see output now
 
 ## Download
 
-Download [APK](https://github.com/Sumit1334/Swipe-Action-View/blob/main/apk/SwipeActionView.apk?raw=true)
+Download [APK](https://github.com/Sumit1334/Swipe-Action-View/blob/main/apk/SwipeActionView.apk?raw=true)<br>
 Download [Aix](https://github.com/Sumit1334/Swipe-Action-View/blob/main/out/com.sumit1334.swipeactionview.aix?raw=true)
 
 ## Donate
